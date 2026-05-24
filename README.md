@@ -234,4 +234,4 @@ Apache License 2.0
 - [jfiletransfer](https://github.com/FlossWare/jfiletransfer) - File transfer abstraction (SFTP, WebDAV, SMB/CIFS, FTP/FTPS)
 - [jmessaging](https://github.com/FlossWare/jmessaging) - Messaging abstraction (Kafka, RabbitMQ, Redis)
 - [jcontainer](https://github.com/FlossWare/jcontainer) - Container abstraction (Kubernetes, Docker, Hazelcast)
-- [jclassloader](https://github.com/FlossWare/jclassloader) - Dynamic class loading from 30+ transport protocols
+- [jclassloader](https://github.com/FlossWare/jclassloader) - Dynamic class loading from 34+ transport protocols
