@@ -20,7 +20,7 @@ Universal version control system abstraction library for Java. Provides a simple
 ```xml
 <dependency>
     <groupId>org.flossware</groupId>
-    <artifactId>jvcs</artifactId>
+    <artifactId>vcs-java</artifactId>
     <version>1.0</version>
 </dependency>
 
@@ -219,8 +219,8 @@ This project uses **X.Y semantic versioning** (e.g., 1.0, 1.1, 2.0). Versions ar
 ## Building from Source
 
 ```bash
-git clone https://github.com/FlossWare/jvcs.git
-cd jvcs
+git clone https://github.com/FlossWare/vcs-java.git
+cd vcs-java
 mvn clean install
 ```
 
