@@ -230,8 +230,8 @@ Apache License 2.0
 
 ## Related Projects
 
-- [jcloudstorage](https://github.com/FlossWare/jcloudstorage) - Cloud storage abstraction (S3, Azure, GCS, Google Drive, Dropbox, OneDrive)
-- [jfiletransfer](https://github.com/FlossWare/jfiletransfer) - File transfer abstraction (SFTP, WebDAV, SMB/CIFS, FTP/FTPS)
-- [jmessaging](https://github.com/FlossWare/jmessaging) - Messaging abstraction (Kafka, RabbitMQ, Redis)
-- [jcontainer](https://github.com/FlossWare/jcontainer) - Container abstraction (Kubernetes, Docker, Hazelcast)
-- [jclassloader](https://github.com/FlossWare/jclassloader) - Dynamic class loading from 34+ transport protocols
+- [jcloudstorage](https://github.com/FlossWare/cloudstorage-java) - Cloud storage abstraction (S3, Azure, GCS, Google Drive, Dropbox, OneDrive)
+- [jfiletransfer](https://github.com/FlossWare/filetransfer-java) - File transfer abstraction (SFTP, WebDAV, SMB/CIFS, FTP/FTPS)
+- [jmessaging](https://github.com/FlossWare/messaging-java) - Messaging abstraction (Kafka, RabbitMQ, Redis)
+- [jcontainer](https://github.com/FlossWare/container-java) - Container abstraction (Kubernetes, Docker, Hazelcast)
+- [jclassloader](https://github.com/FlossWare/classloader-java) - Dynamic class loading from 34+ transport protocols
